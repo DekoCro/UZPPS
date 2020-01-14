@@ -357,7 +357,7 @@
         padding: 15px 0px !important;
     }
     .nav-style-01 .bar1, .nav-style-01 .bar2, .nav-style-01 .bar3 {
-        background: #043381;
+        background: #0989CE;
     }
     .nav-style-01 .responsive-mobile-menu .navbar-toggler {
         left: calc(100% - 295px);
@@ -877,7 +877,7 @@
         min-height: 450px;
         float: left;
         height: 400px;
-        background: #043381;
+        background: #0989CE;
         width: 100%;
         justify-content: center;
         display: flex;

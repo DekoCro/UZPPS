@@ -12,8 +12,8 @@
                 fontSize: '20px',
                 showText: true,
                 roundedLine: true,
-                fontColor: '#043381',
-                lineColor: '#043381',
+                fontColor: '#0989CE',
+                lineColor: '#0989CE',
                 remainingLineColor: '#E5EAF2',
                 lineWidth: 10,
                 start: 'top',
@@ -31,7 +31,7 @@
                 roundedLine: true,
                 fontColor: '#fff',
                 lineColor: '#fff',
-                remainingLineColor: '#043381',
+                remainingLineColor: '#0989CE',
                 lineWidth: 10,
                 start: 'top',
             });
@@ -49,7 +49,7 @@
                 roundedLine: true,
                 fontColor: '#fff',
                 lineColor: '#fff',
-                remainingLineColor: '#043381',
+                remainingLineColor: '#0989CE',
                 lineWidth: 10,
                 start: 'top',
             });
@@ -67,7 +67,7 @@
                 roundedLine: true,
                 fontColor: '#fff',
                 lineColor: '#fff',
-                remainingLineColor: '#043381',
+                remainingLineColor: '#0989CE',
                 lineWidth: 10,
                 start: 'top',
             });
@@ -85,7 +85,7 @@
                 roundedLine: true,
                 fontColor: '#fff',
                 lineColor: '#fff',
-                remainingLineColor: '#043381',
+                remainingLineColor: '#0989CE',
                 lineWidth: 10,
                 start: 'top',
             });
