@@ -8383,3 +8383,17 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     color: #fff; }
   .controler-wrapper-style-04 span {
     position: relative; }
+
+#heroTitle {
+  margin-left: 8%;
+}
+
+#heroTitle {
+  margin-left: 8%;
+}
+@media screen and (max-width: 600px) {
+  #heroTitle {
+    padding: 0;
+    margin:auto;
+  }
+}
