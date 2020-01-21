@@ -126,7 +126,7 @@ Version: 1.0.0
   --main-color: #0980CE;
   --heading-color: #404040;
   --paragraph-color: #666;
-  --body-font: 'Circular Std';
+  --body-font: 'Roboto';
   --secondary-font: 'Open Sans', sans-serif; }
 
 html {
@@ -8401,4 +8401,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   #sectionF {
     display: none;
   }
+}
+
+body {
+  font-family: 'Roboto', sans-serif !important; 
 }
