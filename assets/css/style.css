@@ -6624,7 +6624,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   -webkit-box-shadow: 0px 20px 50px #2E319211;
   box-shadow: 0px 20px 50px #2E319211;
   background: #fff;
-  padding: 70px 60px;
+  padding: 40px 30px;
   position: relative;
   border-radius: 10px; }
   .contact-form .form-control {
@@ -8392,6 +8392,18 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 #heroTitle {
   margin-left: 8%;
 }
+
+body {
+  font-family: 'Roboto', sans-serif !important; 
+}
+#mc-embedded-subscribe-form {
+  margin-top: -15em !important;
+}
+
+#sectionJ { 
+  background: #f6f6f6;
+}
+
 @media screen and (max-width: 600px) {
   #heroTitle {
     padding: 0;
@@ -8401,8 +8413,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   #sectionF {
     display: none;
   }
-}
-
-body {
-  font-family: 'Roboto', sans-serif !important; 
+  #mc-embedded-subscribe-form {
+    margin-top: 0 !important;
+  }
+  #sectionA {
+    margin-top: 80px;
+  }
+  .title {
+    padding: 0 1em;
+  }
 }
